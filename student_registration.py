@@ -1,5 +1,8 @@
 # student_registration.py
-
+    """
+    Registers a specified number of students by asking the user for their IDs.
+    """
+    
 def register_students():
     n = int(input("Enter the number of students to register: "))
 
